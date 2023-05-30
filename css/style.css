@@ -58,7 +58,7 @@ a:link {
 .background-image {
     display: flex;
     flex-direction: column;
-    background: url('/img/Fondo.jpg') no-repeat center center;
+    background: url('../img/Fondo.jpg') no-repeat center center;
     background-size: cover;
     height: 40vh;
     align-items: center;
